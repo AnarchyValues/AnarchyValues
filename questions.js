@@ -3,9 +3,9 @@ questions = [
         "question": "People work best as a collective",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": 10,
             "govt": 0,
-            "scty": 5
+            "scty": -5
         }
     },
     {
