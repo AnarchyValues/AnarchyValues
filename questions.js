@@ -99,7 +99,7 @@ questions = [
         }
     },
     {
-        "question": "The idivivual is paramount to society.",
+        "question": "The individual is paramount to society.",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -116,5 +116,68 @@ questions = [
             "scty": 0
         }
     },
+    {
+        "question": "A Fair Market is more ideal than a fully planned economy or gift economy.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+    {
+        "question": "The means of production should be held in common.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        }
+    },
+    {
+        "question": "Free Markets are more efficient in resource allocation.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
+        }
+    },
+    {
+        "question": "Life is absurd.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": -10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "The concept of 'from each according to their ability, to each according to their need; is a principle we should abide to.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        }
+    },
+    {
+        "question": "Morals, Society, and other social constructs are restrictions on the individual.",
+        "effect": {
+            "econ": 0,
+            "dipl": -10,
+            "govt": 5,
+            "scty": 0
+        }
+    },
+    {
+        "question": " A planned economy based around computers and other devices should be looked into.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 0,
+            "scty": -10
+        }
+    }, 
 ];
 
