@@ -3,9 +3,9 @@ questions = [
         "question": "People work best as a collective",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": 10,
             "govt": 0,
-            "scty": 5
+            "scty": -5
         }
     },
     {
@@ -21,9 +21,9 @@ questions = [
         "question": "A system of coops and self employment freely competing is the best economic system",
         "effect": {
             "econ": 0,
-            "dipl": 5,
+            "dipl": -5,
             "govt": 0,
-            "scty": -10
+            "scty": 10
         }
     },
     {
@@ -50,7 +50,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": -10
         }
     },
     {
@@ -66,7 +66,7 @@ questions = [
         "question": "The collective is more important than the individual",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
