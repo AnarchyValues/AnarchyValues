@@ -84,7 +84,7 @@ questions = [
         "question": "The collective is more important than the individual.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": 10,
             "govt": 0,
             "scty": 0
         }
@@ -99,10 +99,10 @@ questions = [
         }
     },
     {
-        "question": "The idividual is paramount to society.",
+        "question": "The idivivual is paramount to society.",
         "effect": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": -10,
             "govt": 0,
             "scty": 0
         }
