@@ -3,7 +3,7 @@ ideologies = [
         "name": "Anarcho-Communism",
         "stats": {
             "econ": 45,
-            "dipl": 70,
+            "dipl": 80,
             "govt": 60,
             "scty": 20
         }
@@ -29,7 +29,7 @@ ideologies = [
     {
         "name": "Post-Civ",
         "stats": {
-            "econ": 70,
+            "econ": 35,
             "dipl": 35,
             "govt": 40,
             "scty": 55
@@ -75,7 +75,7 @@ ideologies = [
         "name": "Anarcho-Collectivism",
         "stats": {
             "econ": 55,
-            "dipl": 75,
+            "dipl": 70,
             "govt": 45,
             "scty": 20
         }
@@ -102,7 +102,7 @@ ideologies = [
         "name": "Anarcho-Nihilism",
         "stats": {
             "econ": 65,
-            "dipl": 75,
+            "dipl": 25,
             "govt": 80,
             "scty": 45
         }
