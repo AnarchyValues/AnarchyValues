@@ -179,5 +179,14 @@ questions = [
             "scty": -10
         }
     }, 
+    {
+        "question": "The Industrial Revolution and its consequences have been a disaster for the human race.",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    }, 
 ];
 
