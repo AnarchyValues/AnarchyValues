@@ -137,10 +137,10 @@ ideologies = [
     {
         "name": "Borker Thought",
         "stats": {
-            "econ": 35,
-            "dipl": 90,
-            "govt": 0,
-            "econ": 35
+            "econ": 60,
+            "dipl": 80,
+            "govt": 20,
+            "scty": 25
         }
-    },    
+    },
 ];
