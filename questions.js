@@ -9,6 +9,15 @@ questions = [
         }
     },
     {
+        "question": "Human progress is good.",
+        "effect": {
+            "econ": 10,
+            "dipl": 0,
+            "govt": -5,
+            "scty": 0
+        }
+    },
+    {
         "question": "A system of coops and self employment freely competing is the best economic system.",
         "effect": {
             "econ": 0,
