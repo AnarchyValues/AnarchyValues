@@ -62,12 +62,12 @@ questions = [
             "scty": -10
         }
     },
-        {
-        "question": "It is possible to create meaning in life.",
+    {
+        "question": "Morality is a human construct",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
+            "govt": 10,
             "scty": 0
         }
     },
@@ -90,7 +90,7 @@ questions = [
         }
     },
     {
-        "question": "The struggle itself towards the heights is enough to fill a man's heart. One must imagine Sisyphus happy.",
+        "question": "Utillitarianism is a good moral frame work.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -108,7 +108,7 @@ questions = [
         }
     }, 
     {
-        "question": "Morality is a human construct",
+        "question": "Human rights are a bourgeois concept.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -144,7 +144,16 @@ questions = [
         }
     },
     {
-        "question": "Life is absurd.",
+        "question": "Agriculture should be abolished.",
+        "effect": {
+            "econ": -10,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    }, 
+    {
+        "question": "This such a thing as Human nature.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -165,7 +174,7 @@ questions = [
         "question": "Morals, Society, and other social constructs are restrictions on the individual.",
         "effect": {
             "econ": 0,
-            "dipl": -10,
+            "dipl": -5,
             "govt": 5,
             "scty": 0
         }
