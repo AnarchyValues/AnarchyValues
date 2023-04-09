@@ -3,8 +3,8 @@ ideologies = [
         "name": "Anarcho-Communism",
         "stats": {
             "econ": 45,
-            "dipl": 80,
-            "govt": 60,
+            "dipl": 60,
+            "govt": 40,
             "scty": 20
         }
     },
@@ -13,7 +13,7 @@ ideologies = [
         "stats": {
             "econ": 45,
             "dipl": 25,
-            "govt": 50,
+            "govt": 70,
             "scty": 20
         }
     },
@@ -49,7 +49,7 @@ ideologies = [
         "stats": {
             "econ": 0,
             "dipl": 75,
-            "govt": 65,
+            "govt": 35,
             "scty": 40
         }
     },
@@ -85,7 +85,7 @@ ideologies = [
         "stats": {
             "econ": 45,
             "dipl": 0,
-            "govt": 65,
+            "govt": 80,
             "scty": 55
         }
     },
@@ -103,7 +103,7 @@ ideologies = [
         "stats": {
             "econ": 65,
             "dipl": 25,
-            "govt": 80,
+            "govt": 90,
             "scty": 45
         }
     },
@@ -112,7 +112,7 @@ ideologies = [
         "stats": {
             "econ": 45,
             "dipl": 35,
-            "govt": 20,
+            "govt": 60,
             "scty": 55
         }
     },
@@ -121,7 +121,7 @@ ideologies = [
         "stats": {
             "econ": 45,
             "dipl": 20,
-            "govt": 45,
+            "govt": 50,
             "econ": 65
         }
     },
@@ -130,7 +130,7 @@ ideologies = [
         "stats": {
             "econ": 0,
             "dipl": 60,
-            "govt": 50,
+            "govt": 40,
             "econ": 45
         }
     },
