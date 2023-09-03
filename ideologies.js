@@ -101,7 +101,7 @@ ideologies = [
     {
         "name": "Anarcho-Nihilism",
         "stats": {
-            "econ": 65,
+            "econ": 50,
             "dipl": 25,
             "govt": 90,
             "scty": 45
